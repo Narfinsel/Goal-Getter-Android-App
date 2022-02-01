@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryOld">#3f51b5</color>
+    <color name="colorPrimaryDarkOld">#303F9F</color>
+
+    <color name="colorPrimary">#464648</color>
+    <color name="colorPrimaryDark">#404040</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorAccentSecond">#be60fa</color>
+    <color name="colorButtonOutlineV1">#ffffff</color>
+    <color name="colorLabel">#ffffff</color>
+    <color name="colorTransparentBtnAndText">#00ffffff</color>
+    <color name="colorButtonTextAddGoal">#a140a3</color>
+
+
+    <color name = "dots_active"         >#FFfffafa</color>
+    <color name = "dots_inactive"       >#FF87878b</color>
+
+    <color name="colorWhite"            >#ffffff</color>
+    <color name="colorTransparent"      >#00ffffff</color>
+    <color name="colorLightGray"        >#888888</color>
+    <color name="colorGrayVeryLight"    >#FFA0A0A0</color>
+
+</resources>

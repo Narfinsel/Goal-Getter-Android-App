@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_01"
+    android:minHeight="121dp"
+    android:theme="@style/MaterialDes"
+    tools:context=".Activities.ActivityGoalAdd">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarAddSubGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <EditText
+        android:id="@+id/textViewAddSubgoalTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="16dp"
+        android:hint="@string/hintAddSubGoal"
+        android:inputType="text"
+        android:textColor="@color/colorLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarAddSubGoal" />
+
+    <TextView
+        android:id="@+id/textViewAddSubgoalStartDate"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="12sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSetSubGoalStartDate"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewAddSubgoalEndDate"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="12sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSetSubGoalEnDate"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonAddNewSubGoal"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/strButtonAddNewGoal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAddGEndDatePick"
+        app:layout_constraintVertical_bias="0.85" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSetSubGoalStartDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/stringAddGoalStartDate"
+        android:textAllCaps="true"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toStartOf="@+id/textViewAddSubgoalStartDate"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAddSubgoalTitle"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSetSubGoalEnDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/stringAddGoalEndDate"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toStartOf="@+id/textViewAddSubgoalEndDate"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSetSubGoalStartDate"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+</android.support.constraint.ConstraintLayout>

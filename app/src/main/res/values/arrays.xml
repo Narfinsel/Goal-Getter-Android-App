@@ -1,0 +1,41 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="color_1" type="color"   >@color/color_goal_white</item>
+    <item name="color_2" type="color"   >@color/color_goal_red</item>
+    <item name="color_3" type="color"   >@color/color_goal_pink</item>
+    <item name="color_4" type="color"   >@color/color_goal_purple</item>
+    <item name="color_5" type="color"   >@color/color_goal_deep_purple</item>
+    <item name="color_6" type="color"   >@color/color_goal_indigo</item>
+    <item name="color_7" type="color"   >@color/color_goal_blue</item>
+    <item name="color_8" type="color"   >@color/color_goal_light_blue</item>
+    <item name="color_9" type="color"   >@color/color_goal_cyan</item>
+    <item name="color_10" type="color"  >@color/color_goal_teal</item>
+    <item name="color_11" type="color"  >@color/color_goal_green</item>
+    <item name="color_12" type="color"  >@color/color_goal_light_green</item>
+    <item name="color_13" type="color"  >@color/color_goal_lime</item>
+    <item name="color_14" type="color"  >@color/color_goal_yellow</item>
+    <item name="color_15" type="color"  >@color/color_goal_amber</item>
+    <item name="color_16" type="color"  >@color/color_goal_orange</item>
+    <item name="color_17" type="color"  >@color/color_goal_deep_orange</item>
+    <item name="color_18" type="color"  >@color/color_goal_brown</item>
+
+</resources>
+    <!--<item>#ff5947</item>-->
+    <!--<item>#ff3d82</item>-->
+    <!--<item>#cb59de</item>-->
+    <!--<item>#8755d9</item>-->
+    <!--<item>#5466e1</item>-->
+    <!--<item>#37a6f9</item>-->
+    <!--<item>#6ac6f2</item>-->
+    <!--<item>#1bcae2</item>-->
+    <!--<item>#0abfae</item>-->
+    <!--<item>#0abfae</item>-->
+    <!--<item>#5dda61</item>-->
+    <!--<item>#9ad455</item>-->
+    <!--<item>#c9d64a</item>-->
+    <!--<item>#fff36f</item>-->
+    <!--<item>#ffd143</item>-->
+    <!--<item>#fd702e</item>-->
+    <!--<item>#84513e</item>-->
+
+

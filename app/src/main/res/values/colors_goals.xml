@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_goal_white"         >#ffffff</color>
+    <color name="color_goal_red"           >#ff432f</color>
+    <color name="color_goal_pink"          >#ff3d82</color>
+    <color name="color_goal_purple"        >#cb59de</color>
+    <color name="color_goal_deep_purple"   >#8755d9</color>
+    <color name="color_goal_indigo"        >#5466e1</color>
+    <color name="color_goal_blue"          >#37a6f9</color>
+    <color name="color_goal_light_blue"    >#6ac6f2</color>
+    <color name="color_goal_cyan"          >#1bcae2</color>
+    <color name="color_goal_teal"          >#0abfae</color>
+    <color name="color_goal_green"         >#5dda61</color>
+    <color name="color_goal_light_green"   >#9ad455</color>
+    <color name="color_goal_lime"          >#c9d64a</color>
+    <color name="color_goal_yellow"        >#fff36f</color>
+    <color name="color_goal_amber"         >#ffd143</color>
+    <color name="color_goal_orange"        >#ffaf39</color>
+    <color name="color_goal_deep_orange"   >#fd702e</color>
+    <color name="color_goal_brown"         >#84513e</color>
+
+</resources>
+

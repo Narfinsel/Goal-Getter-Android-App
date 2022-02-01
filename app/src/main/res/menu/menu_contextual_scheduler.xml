@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuOptionRemoveTaskFromScheduler"
+        android:icon="@drawable/icon_menu_contextual_scheduler_remove_task"
+        android:title="@string/string_menu_context_sched_remove_task"/>
+
+</menu>

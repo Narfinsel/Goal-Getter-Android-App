@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_edit_goals"
+    android:minHeight="121dp"
+    android:theme="@style/MaterialDes"
+    tools:context=".Activities.ActivityGoalAdd">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarEditSubGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <EditText
+        android:id="@+id/textViewEditSubGoalTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:hint="@string/hintSubGoalTitle"
+        android:inputType="text"
+        android:textColor="@color/colorLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarEditSubGoal" />
+
+    <TextView
+        android:id="@+id/textViewEditSubGStartDatePicked"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/buttonEdtSubGoalStartDate"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewEditSubGoalTitle" />
+
+    <TextView
+        android:id="@+id/textViewEditSubGEndDatePicked"
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/buttonEditSubGoalEndDate"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewEditSubGStartDatePicked" />
+
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSaveChangesSubGoal"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="28dp"
+        android:text="@string/strButtonEditGoal_SaveChanges"
+        app:backgroundTint="#be60fa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonEdtSubGoalStartDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="48dp"
+        android:text="@string/strButtonEditGoal_ChangeDate"
+        android:textAllCaps="true"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewEditSubGStartDatePicked"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonEditSubGoalEndDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="48dp"
+        android:text="@string/strButtonEditGoal_ChangeDate"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textViewEditSubGEndDatePicked"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+
+</android.support.constraint.ConstraintLayout>

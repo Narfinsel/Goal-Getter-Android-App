@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/menu_item_walkthrough"
+    android:icon="@drawable/icon_walkthrough"
+    android:title="@string/string_NavDrawer_MenuItem_Guide"/>
+
+<item android:id="@+id/menu_item_goals"
+    android:icon="@drawable/icon_goals"
+    android:title="@string/string_NavDrawer_MenuItem_Goals"/>
+
+<item android:id="@+id/menu_item_weekly_schedule"
+    android:icon="@drawable/icon_schedule_week"
+    android:title="@string/string_NavDrawer_MenuItem_Schedule"/>
+
+<item android:id="@+id/menu_item_settings"
+    android:icon="@drawable/icon_settings"
+    android:title="@string/string_NavDrawer_MenuItem_Settings"/>
+
+<item android:id="@+id/menu_item_about"
+    android:icon="@drawable/icon_about"
+    android:title="@string/string_NavDrawer_MenuItem__About"/>
+
+<item android:id="@+id/menu_item_sign_out"
+    android:icon="@drawable/icon_sign_out"
+    android:title="@string/textButtonSignOut"/>
+</menu>
+
+<!--<item>Fitness</item>-->
+<!--<item>Well-Being</item>-->
+<!--<item>Skill Building</item>-->
+<!--<item>Self-Development</item>-->
+<!--<item>Wealth</item>-->
+<!--<item>Business</item>-->
+<!--<item>Love</item>-->
+<!--<item>Travel</item>-->
+<!--<item>Other</item>-->

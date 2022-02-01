@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "488053529083",
+    "firebase_url": "https://goal-mark.firebaseio.com",
+    "project_id": "goal-mark",
+    "storage_bucket": "goal-mark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488053529083:android:11f2b1ca61161245",
+        "android_client_info": {
+          "package_name": "com.cassidyhale.goalmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488053529083-47205f8l2op50b5ues9ccrtuo9bp8689.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cassidyhale.goalmark",
+            "certificate_hash": "05d83a5175c6ab07958aec01d01278f3f5935b26"
+          }
+        },
+        {
+          "client_id": "488053529083-vnnebt96dnjb59ihpjafe7kfe6pkuc20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATH72uJM29tH0MbGyfJb88JgjbruQmToU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488053529083-vnnebt96dnjb59ihpjafe7kfe6pkuc20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

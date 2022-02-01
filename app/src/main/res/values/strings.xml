@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Goal Getter</string>
+    <string name="facebook_app_id">335857616984180</string>
+    <string name="fb_login_protocol_scheme">fb335857616984180</string>
+
+    <string name="string_Toolbar_Title_Home"            >Home</string>
+    <string name="string_Toolbar_Title_Goals"           >Goals</string>
+    <string name="string_Toolbar_Title_Completed"       >Completed</string>
+    <string name="string_Toolbar_Title_Goal_Add"        >New Goal</string>
+    <string name="string_Toolbar_Title_SubGoal"         >Sub-Goals</string>
+    <string name="string_Toolbar_Title_SubGoal_Add"     >New Sub-Goal</string>
+    <string name="string_Toolbar_Title_Tasks"           >Tasks</string>
+
+    <string name="string_Toolbar_Title_Goal_Edit"       >Edit Goal</string>
+    <string name="string_Toolbar_Title_SubGoal_Edit"    >Edit SubGoal</string>
+
+    <string name="string_Toolbar_Button_Add_Goal"       >Add Goal</string>
+    <string name="string_Toolbar_Button_Edit_Goal"      >Edit Goal</string>
+    <string name="string_Toolbar_Button_Edit_SubGoal"   >Edit SubGoal</string>
+    <string name="string_Toolbar_Button_Pick_Color"     >Pick Color</string>
+    <string name="string_Toolbar_Button_Add_SubGoal"    >Add Sub-Goal</string>
+    <string name="string_Toolbar_Button_Add_Task"       >Add Task</string>
+
+    <string name="string_DialogBox_Schedule_Task"       >Select Task</string>
+    <string name="string_DialogBox_Sched_Button"        >Schedule</string>
+    <string name="string_DialogBox_Cancel_Sched_Button" >Cancel</string>
+    <string name="string_menu_context_sched_remove_task">Remove Task</string>
+
+    <string name="string_DialogBox_Task_Title"          >New Task</string>
+    <string name="string_DialogBox_Task_Add_Button"     >ADD</string>
+    <string name="string_DialogBox_Task_Cancel_Button"  >Cancel</string>
+
+    <string name="string_NavDrawer_Header"              >Main Menu</string>
+    <string name="string_NavDrawer_MenuItem_Guide"      >Walkthrough</string>
+    <string name="string_NavDrawer_MenuItem_Goals"      >Goals</string>
+    <string name="string_NavDrawer_MenuItem_Schedule"   >Weekly Schedule</string>
+    <string name="string_NavDrawer_MenuItem_Settings"   >Settings</string>
+    <string name="string_NavDrawer_MenuItem__About"     >About</string>
+
+    <string name="hintEmail"                            >Email</string>
+    <string name="hintPassword"                         >Password</string>
+    <string name="hintGoalTitle"                        >Goal Title</string>
+    <string name="hintSubGoalTitle"                     >Sub-Goal Title</string>
+    <string name="hintAddSubGoal"                       >Sub-Goal Title</string>
+    <string name="hintAddTaskLabel"                     >Your Task? </string>
+    <string name="hintAddTaskNumRepetitions"            >How Many Times Will You Do It?</string>
+    <string name="stringImageContDescription"           >Image Content Desc</string>
+    <string name="placeholder_Goal"                     >Goal Title</string>
+    <string name="placeholder_SubGoal"                  >Sub-Goal Title</string>
+    <string name="placeholder_Task"                     >Task Title</string>
+    <string name="placeholder_DAY"                      >DAY</string>
+    <string name="placeholder_DATE"                     >DATE</string>
+
+    <string name="textButtonSignIn">Sign In</string>
+    <string name="textButtonSignOut">Sign Out</string>
+    <string name="textButtonCreateAccount">Create Account</string>
+    <string name="textButtonJustGo">WORK OFFLINE</string>
+
+
+    <string name="strButtonAddNewGoal"                  >Add Goal</string>
+    <string name="stringAddGoalStartDate"               >Start Date</string>
+    <string name="stringAddGoalEndDate"                 >Target Date</string>
+    <string name="strDialogTitlePickColor"              >Choose Goal Color</string>
+    <string name="strButtonEditGoal_SaveChanges"        >Save</string>
+    <string name="strButtonEditGoal_ChangeDate"         >Change</string>
+
+
+
+    <string name="stringNotificationTaskRemTitle"       >New Task</string>
+    <string name="stringNotificationTaskRemContent"     >Good! New opportunities arise. 5 seconds to get grinding.</string>
+    <string name="stringNotificationChannelIdTaskRemind">Goal Getter Notification</string>
+    <string name="stringNotificationChannelName"        >Goal Getter Notification</string>
+    <string name="stringNotificationChannelIdDescript"  >Step up and Get at it! A task awaits.</string>
+    <string name="stringNotificationActionButtonDone"   >COMPLETED</string>
+    <string name="stringNotificationActionButtonSkip"   >SKIPPED</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
+
+
+
+

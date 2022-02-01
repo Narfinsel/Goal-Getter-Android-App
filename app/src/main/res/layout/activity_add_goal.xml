@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_01"
+    android:minHeight="121dp"
+    android:theme="@style/MaterialDes"
+    tools:context=".Activities.ActivityGoalAdd">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarAddGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <EditText
+        android:id="@+id/textViewAddSubgoalTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:hint="@string/hintGoalTitle"
+        android:inputType="text"
+        android:textColor="@color/colorLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbarAddGoal" />
+
+    <TextView
+        android:id="@+id/textViewEndDatePicked"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSetGoalStartDate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonSetGoalStartDate" />
+
+    <TextView
+        android:id="@+id/textViewAddGEndDatePick"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:textAlignment="center"
+        android:textColor="@color/colorLabel"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSetGoalEndDate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonSetGoalEndDate" />
+
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonAddNewGoal"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/strButtonAddNewGoal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerSelectGoalCategory"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSetGoalStartDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/stringAddGoalStartDate"
+        android:textAllCaps="true"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAddSubgoalTitle"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSetGoalEndDate"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/stringAddGoalEndDate"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSetGoalStartDate"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonSetGoalPickColor"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/string_Toolbar_Button_Pick_Color"
+        android:textColor="@color/colorButtonOutlineV1"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSetGoalEndDate"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/viewSelectedColor"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="28dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="24dp"
+        android:clickable="false"
+        app:backgroundTint="@color/color_goal_white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonSetGoalPickColor"
+        app:layout_constraintStart_toEndOf="@+id/buttonSetGoalPickColor"
+        app:strokeColor="@color/colorButtonOutlineV1" />
+
+    <Spinner
+        android:id="@+id/spinnerSelectGoalCategory"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@color/colorTransparent"
+        android:popupBackground="@color/colorTransparent"
+        android:spinnerMode="dropdown"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSetGoalPickColor" />
+
+
+</android.support.constraint.ConstraintLayout>

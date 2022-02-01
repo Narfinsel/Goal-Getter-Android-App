@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    android:theme="@style/MaterialDes">
+
+    <!--<android.support.v7.widget.RecyclerView-->
+    <!--android:id="@+id/recyclerViewTaskSelectorForSchedule"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_marginStart="8dp"-->
+    <!--android:layout_marginTop="8dp"-->
+    <!--android:layout_marginEnd="8dp"-->
+    <!--android:layout_marginBottom="8dp"-->
+    <!--app:layout_constraintBottom_toTopOf="@+id/buttonScheduleTaskDialog"-->
+    <!--app:layout_constraintEnd_toEndOf="parent"-->
+    <!--app:layout_constraintHorizontal_bias="0.0"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toTopOf="parent"-->
+    <!--app:layout_constraintVertical_bias="0.0" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:orientation="horizontal">
+
+        <ExpandableListView
+            android:id="@+id/expandableListViewForSchedulingTasks"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector = "@drawable/selector_expandable_list"
+            android:choiceMode = "singleChoice">
+        </ExpandableListView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/buttonCancelScheduleTaskDialog"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="18dp"
+            android:text="@string/string_DialogBox_Cancel_Sched_Button"
+            android:textColor="@color/colorAccent"
+            android:background="@color/colorTransparent"
+            android:textSize="12sp"
+            app:strokeColor="@color/colorAccent"
+            app:strokeWidth="1dp" />
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/buttonScheduleTaskDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/string_DialogBox_Sched_Button"
+            android:textColor="@color/colorWhite"
+            android:textSize="12sp"
+            app:strokeColor="@color/colorAccent"
+            app:strokeWidth="1dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

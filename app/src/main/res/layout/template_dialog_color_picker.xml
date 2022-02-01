@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/MaterialDes"
+    android:background="@color/colorPrimaryDark"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.GridLayout
+        android:id="@+id/gridLayoutColorPicker"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <!--<Space-->
+            <!--android:layout_width="2dp"-->
+            <!--android:layout_height="2dp" />-->
+
+    </android.support.v7.widget.GridLayout>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonScheduleTaskDialog"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colorWhite"
+        android:backgroundTint="@color/colorWhite"
+        android:text="@string/string_DialogBox_Task_Add_Button"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayoutColorPicker"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/buttonCancelTaskDialog"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:text="@string/string_DialogBox_Task_Cancel_Button"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonScheduleTaskDialog"
+        app:layout_constraintEnd_toStartOf="@+id/buttonScheduleTaskDialog"
+        app:strokeColor="@color/colorWhite"
+        app:strokeWidth="1dp" />
+
+</android.support.constraint.ConstraintLayout>
