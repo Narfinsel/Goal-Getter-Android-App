@@ -21,31 +21,3 @@
 </details>
 
 <hr>
-<form action="someAction">
-<fieldset class="carousel" id="idForTheCarousel">
-  <legend>Legend is read by screenreader</legend>
-  <div>
-    <a class="backward" data-move="backward" data-carousel="nameOfRadioButtons" hidden aria-hidden="true"></a>
-    <ul class="carousel-labels left0">
-      <li>
-        <label for="firstRadioID">Carousel Slide #1
-        </label>
-      </li>
-      <li>
-        <label for="secondRadioID">Carousel Slide #2
-        </label>
-      </li>
-    </ul>
-    <a class="forward" data-move="forward" data-carousel="nameOfRadioButtons" hidden aria-hidden="true"></a>
-    </div>
-    <ul class="carousel-radios">
-      <li>
-        <input type="radio" name="nameOfRadioButtons" data-value="0" value="someValue" id="firstRadioID" checked><span></span>
-      </li>
-      <li>
-        <input type="radio" name="nameOfRadioButtons" value="some other value" data-value="1" id="secondRadioID"><span></span>
-      </li>
-    </ul>
-    </fieldset>
-   <input type="submit" value="Put Submit Button Text Here">
-</form>
