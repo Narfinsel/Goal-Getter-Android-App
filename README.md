@@ -23,7 +23,7 @@
 <hr>
 <details>
   <summary>The title of the image group</summary><details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
+  <img src="/app/screencasts/img/screen1_homepage.jpg" name="image-name">
+  <img src="/app/screencasts/img/screen2_main_menu.jpg" name="image-name">
+  <img src="/app/screencasts/img/screen3_add_new_goal.jpg" name="image-name">
 </details>
