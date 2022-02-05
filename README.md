@@ -21,53 +21,77 @@
 </details>
 
 <hr>
-<form action="https://www.flickr.com/photos/lebatihem/15542975284" wtx-context="C6EE65D1-A16F-4496-8C8C-B31CAD079B71">
-          <fieldset class="carousel" id="myCarousel">
-          <legend>Select a Carousel from the carousel:</legend>
+
+<form action="index.html" wtx-context="CDFFB4AC-9059-429A-8094-30B5CD9036FE">
+          <fieldset class="carousel" id="address">
+          <legend>Select an address to edit:</legend>
           <div>
-            <a class="backward" data-move="backward" data-carousel="carouselcarousel-unicorns" aria-hidden="true"></a>
-            <ul class="carousel-labels left2">
-              <li style="background-image: url(horses/horse1.jpg);">
-                <label for="unicorn1"><p>Carousel photo by  Ian Clark</p>
+            <a class="backward" data-move="backward" data-carousel="shipping-addresses" aria-hidden="true"></a>
+            <ul class="carousel-labels left3">
+              <li>
+                <label for="address1">
+                <p>Instart Logic</p>
+                <p>US Headquarters</p>
+                <p>450 Lambert Avenue</p>
+                <p>Palo Alto, CA 94306</p>
                 </label>
               </li>
-              <li style="background-image: url(horses/horse2.jpg);">
-                <label for="unicorn2"><p>Carousel photo by  Poppy</p>
+              <li>
+                <label for="address2">
+                <p>Instart Logic</p>
+                <p>India Office</p>
+                <p>6th Floor , HM Vibha Towers</p>
+                <p>Hosur Rd, Adugodi</p>
+                <p>Bengaluru — 560029</p>
                 </label>
               </li>
-              <li style="background-image: url(horses/horse3.jpg);">
-                <label for="unicorn3"><p>Carousel photo by  Lebatihem</p>
+              <li>
+                <label for="address3">
+                  <p>Instart Logic</p>
+                  <p>New York Office</p>
+                  <p>499 Seventh Ave, 7th Floor North</p>
+                  <p>New York, NY 10018</p>
                 </label>
               </li>
-              <li style="background-image: url(horses/horse4.jpg);">
-                <label for="unicorn4"><p>Carousel photo by  Jenny Huey</p>
+              <li>
+                <label for="address4">
+                  <p>Instart Logic</p>
+                  <p>Boston Office</p>
+                  <p>400 West Cummings Park, Suite 3650</p>
+                  <p>Woburn, MA 01801</p>
                 </label>
               </li>
-              <li style="background-image: url(horses/horse5.jpg);">
-                <label for="unicorn5"><p>Carousel photo by  Andrea Kirkby</p>
+              <li>
+                <label for="address5">
+                  <p>Instart Logic</p>
+                  <p>London Office</p>
+                  <p>Knyvett House</p>
+                  <p>Watermans Business Park</p>
+                  <p>The Causeway</p>
+                  <p>Staines-Upon-Thames, TW18 3BA, UK</p>
                 </label>
               </li>
             </ul>
-            <a class="forward" data-move="forward" data-carousel="carouselcarousel-unicorns" aria-hidden="true"></a>
+            <a class="forward" data-move="forward" data-carousel="shipping-addresses" aria-hidden="true"></a>
             </div>
-            <ul id="unicornradios" class="carousel-radios">
+            <ul id="addressradios" class="carousel-radios">
               <li>
-                <input type="radio" name="carouselcarousel-unicorns" data-value="0" value="mrshoes/7260311450" id="unicorn1" checked="" wtx-context="52ED9FE5-7C41-4661-8843-D06428D9A5C3"><span></span>
+                <input type="radio" name="shipping-addresses" data-value="0" id="address1" checked="" wtx-context="39C74188-6045-4AEC-8CCA-E34B00240353"><span></span>
               </li>
               <li>
-                <input type="radio" name="carouselcarousel-unicorns" value="hddod/128789866" data-value="1" id="unicorn2" wtx-context="BDA7AA20-F052-4BCA-8170-81E4B1B4AF32"><span></span>
+                <input type="radio" name="shipping-addresses" data-value="1" id="address2" wtx-context="A9C701DE-4917-4FD4-9AE9-CB3BE2BC1E64"><span></span>
               </li>
               <li>
-                <input type="radio" name="carouselcarousel-unicorns" value="lebatihem/15542975284" data-value="2" id="unicorn3" wtx-context="BFBF17BD-DEAD-4DE1-B4F1-7152E720D350"><span></span>
+                <input type="radio" name="shipping-addresses" data-value="2" id="address3" wtx-context="91CD1077-E6BD-4234-814C-29882E09F55B"><span></span>
               </li>
               <li>
-                <input type="radio" name="carouselcarousel-unicorns" value="jensview/9061358498" data-value="3" id="unicorn4" wtx-context="1D3DCA3E-7109-48F9-8789-C3531F775812"><span></span>
+                <input type="radio" name="shipping-addresses" data-value="3" id="address4" wtx-context="393A5982-FFC7-4321-AF43-1D118E928B69"><span></span>
               </li>
               <li>
-                <input type="radio" name="carouselcarousel-unicorns" value="andreakirkby/5733510802" data-value="4" id="unicorn5" wtx-context="C4022BE9-E244-41F9-8E2D-C27ED8A86F30"><span></span>
+                <input type="radio" name="shipping-addresses" data-value="4" id="address5" wtx-context="1B14B9D6-3B3C-4A3E-8534-3B1AC2C348D3"><span></span>
               </li>
           
             </ul>
             </fieldset>
-           <input type="submit" value="See it on Flickr" wtx-context="DAE99CB4-6214-4BF7-841F-8B709382E4CC">
+           <input type="submit" value="Edit" wtx-context="70A90E06-DAC3-478D-84DF-479178F279ED">
             </form>
