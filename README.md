@@ -49,7 +49,7 @@
 <ul>
       <li>Goal title or name.</li>
       <li>Start date and end date. You can only schedule tasks for an associated goal during this time-window, but not outside of it. If the calendaristic date is outside start-end dates, then you cannot schedule your goal's tasks, unless you changes those dates.</li>
-      <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization. </li>
+      <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization in the scheduling graph. </li>
       <li>Area or domain of interest. This isn't important, but it does randomly select your goal's background image, as it appears in the goal list.</li>
 </ul> 
 <table cellspacing="10" border="0">
