@@ -86,6 +86,61 @@
 </table>
 
 
+
+
+<h4>Sub-goals</h4>
+<p>Create, add, modify goals. The list of goals is saved in the application context objects which lives inside the app sand-box. It is there when you run or exit the application.</p>
+<p>Goals have a multititude of attributes to distinguish them:</p>
+<ul>
+      <li>Goal title / name.</li>
+      <li>Start date and end date. You can only schedule tasks for associated goal during this time-window. Not outside of it.</li>
+      <li>Color - this is important for scheduling, because tasks for this goal with appear in different color, to easy visualization. </li>
+      <li>Area / domain of interest, this isn't important, but it does selected randomly your goal's backround image, in the goal list.</li>
+</ul> 
+<table cellspacing="10" border="0">
+      <tr>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen7_edit_goal.jpg">
+              <img src="/app/screencasts/img/screen7_edit_goal.jpg" alt="Goal Getter Add New Goal">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen8_add_new_subgoal.jpg">
+              <img src="/app/screencasts/img/screen8_add_new_subgoal.jpg" alt="Goal Getter Add New Goal">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen9_add_new_subgoal_dates.jpg">
+              <img src="/app/screencasts/img/screen9_add_new_subgoal_dates.jpg" alt="Goal Getter Add New Goal Color">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen10_add_task_to_subgoal.jpg">
+              <img src="/app/screencasts/img/screen10_add_task_to_subgoal.jpg" alt="Goal Getter Goals Menu">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen11_add_task_to_subgoal.jpg">
+              <img src="/app/screencasts/img/screen11_add_task_to_subgoal.jpg" alt="Goal Getter Goals Menu">
+            </a>
+          </p>
+        </td>
+      </tr>
+</table>
+
+
+
+
+
 <hr>
 
 <details open="">
