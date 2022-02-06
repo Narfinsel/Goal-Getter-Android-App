@@ -3,6 +3,27 @@
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher_goal_getter_app.png" alt="Image SunraySeo Logo" width="125" style="max-width: 30%;">
 <p>Personal goal scheduler, with sub-goals and task - valuable aid to make sure you stick to your goals. Create goals, associate them with sub-goals and tasks with specific repeatability /repetition count.</p>
 <p>Once created, tasks can be scheduled in the weekly scheduler section. This allows my Goal Getter app to send notifications and reminders to keep you on track with following up on the scheduled tasks.</p>
+<hr>
+
+<h2>Content</h2>
+<details open="">
+  <summary>Table of Content</summary>
+  <ul class="contains-task-list">
+    <li class="task-list-item">
+      <summary>Functionaly & Features</summary>
+      <ul class="contains-task-list">
+            <li class="task-list-item">Data Encryption, Storage & Context</li>
+            <li class="task-list-item">Goals Setting</li>
+            <li class="task-list-item">Sub-goals Partitioning</li>
+            <li class="task-list-item">Weekly Task Scheduler</li>
+      </ul>  
+    </li>
+    <li class="task-list-item">License</li>
+    <li class="task-list-item">Sub-goals Partitioning</li>
+    <li class="task-list-item">Weekly Task Scheduler</li>
+  </ul>
+</details>
+
 
 <hr>
 <h2>Functionaly & Features</h2>
@@ -215,41 +236,9 @@
         </td>
       </tr>
 </table>
-
-
-
-
-
-
 <hr>
 
-<details open="">
-  <summary>Content</summary>
-  <ul class="contains-task-list">
-    <li class="task-list-item">
-      <summary>Functionaly & Features</summary>
-      <ul class="contains-task-list">
-            <li class="task-list-item">Data Encryption, Storage & Context</li>
-            <li class="task-list-item">Goals Setting</li>
-            <li class="task-list-item">Sub-goals Partitioning</li>
-            <li class="task-list-item">Weekly Task Scheduler</li>
-      </ul>  
-    </li>
-    <li class="task-list-item">License</li>
-    <li class="task-list-item">Sub-goals Partitioning</li>
-    <li class="task-list-item">Weekly Task Scheduler</li>
-  </ul>
-</details>
 
-<details open="">
-  <summary>Functionaly & Features</summary>
-  <ul class="contains-task-list">
-    <li class="task-list-item">Data Encryption, Storage & Context</li>
-    <li class="task-list-item">Goals Setting</li>
-    <li class="task-list-item">Sub-goals Partitioning</li>
-    <li class="task-list-item">Weekly Task Scheduler</li>
-  </ul>
-</details>
-
-
+<h2>License</h2>
+NOTE: Goal Getter Android App is licensed under the <a href="https://choosealicense.com/licenses/agpl-3.0/">GNU AGPLv3</a> license. Free to use, please check associated link for more information on permissions, rights and use.
 <hr>
