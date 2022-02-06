@@ -44,13 +44,13 @@
 </table>
 
 <h4>Goals</h4>
-<p>Create, add, modify goals. The list of goals is saved in the application context objects which lives inside the app sand-box. It is there when you run or exit the application.</p>
-<p>Goals have a multititude of attributes to distinguish them:</p>
+<p>Create, add, modify goals. The list of goals is saved as an application context object which lives inside the app sandbox. It is there when you open, run and exit the application. This means your goal-related data is automatically saved and retrieved when you close / re-open your app. </p>
+<p>Goals have a multitude of attributes to distinguish them:</p>
 <ul>
-      <li>Goal title / name.</li>
-      <li>Start date and end date. You can only schedule tasks for associated goal during this time-window. Not outside of it.</li>
-      <li>Color - this is important for scheduling, because tasks for this goal with appear in different color, to easy visualization. </li>
-      <li>Area / domain of interest, this isn't important, but it does selected randomly your goal's backround image, in the goal list.</li>
+      <li>Goal title or name.</li>
+      <li>Start date and end date. You can only schedule tasks for an associated goal during this time-window, but not outside of it. If the calendaristic date is outside start-end dates, then you cannot schedule your goal's tasks, unless you changes those dates.</li>
+      <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization. </li>
+      <li>Area or domain of interest. This isn't important, but it does randomly select your goal's background image, as it appears in the goal list.</li>
 </ul> 
 <table cellspacing="10" border="0">
       <tr>
