@@ -224,14 +224,12 @@
 <hr>
 
 <details open="">
-  <summary>
-    show / hide
-  </summary>
+  <summary> show / hide </summary>
   <ul class="contains-task-list">
-    <li class="task-list-item">Alert</li>
-    <li class="task-list-item">Artboard</li>
-    <li class="task-list-item">App bar</li>
-        <li class="task-list-item">Avatar</li>
+    <li class="task-list-item">Data Encryption, Storage & Context</li>
+    <li class="task-list-item">Goals Setting</li>
+    <li class="task-list-item">Sub-goals Partitioning</li>
+    <li class="task-list-item">Weekly Task Scheduler</li>
   </ul>
 </details>
 
