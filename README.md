@@ -172,11 +172,11 @@
 
 
 <h3>Weekly Task Scheduler</h3>
-<p>Create, add, modify goals. The list of goals is saved as an application context object which lives inside the app sandbox. It is there when you open, run and exit the application. This means your goal-related data is automatically saved and retrieved when you close / re-open your app. </p>
-<p>Goals have a multitude of attributes to distinguish them:</p>
+<p>The scheduler is a blank-slate fragment navigation pane, which easily allows you to set and organize tasks for every day of the week. The navigation page adapter has 7 slides, which you can swipe left and right to switch between days, Monday to Sunday.</p>
+<p>The navigation adapter refreshes date settings every Monday morning, according to current calendaristic week.</p>
 <ul>
-      <li>Goal title or name.</li>
-      <li>Start date and end date. You can only schedule tasks for an associated goal during this time-window, but not outside of it. If the calendaristic date is outside start-end dates, then you cannot schedule your goal's tasks, unless you changes those dates.</li>
+      <li>Swipe your scheduler left-right to navigate through your weekdays, from Monday to Sunday.</li>
+      <li>.</li>
       <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization in the scheduling graph. </li>
       <li>Area or domain of interest. This isn't important, but it does randomly select your goal's background image, as it appears in the goal list.</li>
 </ul> 
