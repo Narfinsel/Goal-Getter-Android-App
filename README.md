@@ -136,7 +136,38 @@
         </td>
       </tr>
 </table>
-
+<table cellspacing="10" border="0">
+      <tr>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen12_list_subgoals.jpg">
+              <img src="/app/screencasts/img/screen12_list_subgoals.jpg" alt="Goal Getter Goals, Sub-goals, Tasks">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen13_list_subgoals.jpg">
+              <img src="/app/screencasts/img/screen13_list_subgoals.jpg" alt="Goal Getter Goals, Sub-goals, Tasks">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen14_list_subgoals.jpg">
+              <img src="/app/screencasts/img/screen14_list_subgoals.jpg" alt="Goal Getter Goals, Sub-goals, Taskss">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen15_list_subgoals.jpg">
+              <img src="/app/screencasts/img/screen15_list_subgoals.jpg" alt="Goal Getter Goals, Sub-goals, Tasks">
+            </a>
+          </p>
+        </td>
+      </tr>
+</table>
 
 
 
