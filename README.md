@@ -7,7 +7,7 @@
 <h2>Description</h2>
 <h3>Application & Target Audience</h3>
 <p></p>
-<table cellspacing="20" border="0" width="250">
+<table cellspacing="20" border="0" width="250px">
       <tr>
         <td>
           <p align="center" dir="auto">
