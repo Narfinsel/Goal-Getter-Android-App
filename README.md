@@ -228,10 +228,10 @@
     show / hide
   </summary>
   <ul class="contains-task-list">
-    <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="" wtx-context="F568DCF6-B057-4A3D-8D28-CC5FA26020AA"> Alert</li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="" wtx-context="F0112F11-8E81-4005-8028-C413CB19C2C2"> Artboard</li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" wtx-context="70E7E1DA-0B89-4FFC-A343-198EEDC998DE"> App bar</li>
-    <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="" wtx-context="6EAC17E6-7977-4FCF-8202-0902756640B6"> Avatar
+    <li class="task-list-item">Alert</li>
+    <li class="task-list-item">Artboard</li>
+    <li class="task-list-item">App bar</li>
+        <li class="task-list-item">Avatar</li>
   </ul>
 </details>
 
