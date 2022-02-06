@@ -6,9 +6,7 @@
 <hr>
 <h2>Description</h2>
 <h3>Application & Target Audience</h3>
-<p></p>
-<p>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal.</p>
-<p>This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</p>
+<p>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal. This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</p>
 <p>Application allows you to work offline, or to sign in via Facebook. Working offline allows you to skip sign-in, to use the app. Completely free to use, no paywall, no need to pay for extra functionality. </p>
 <table cellspacing="20" border="0" width=30%>
       <tr>
