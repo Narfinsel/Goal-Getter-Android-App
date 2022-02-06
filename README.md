@@ -44,7 +44,7 @@
 </table>
 
 
-<table cellspacing="20" border="0" width=30%>
+<table cellspacing="10" border="0">
       <tr>
         <td width="300" height="150">
           <p align="center" dir="auto">
