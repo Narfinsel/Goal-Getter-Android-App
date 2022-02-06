@@ -9,30 +9,29 @@
 <p></p>
 <table cellspacing="20" border="0" width=30%>
       <tr>
-        <td width="300" height="150">
+        <td width="258" height="125">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen1_homepage.jpg">
               <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage">
             </a>
           </p>
         </td>
-        <td width="300" height="150">
+        <td width="250" height="125">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
               <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu">
             </a>
           </p>
         </td>
-        <td width="600" height="300">
+        <td width="500" height="250">
           <p align="center" dir="auto">
-            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
-              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu">
-            </a>
+            <p>
+            </p>
           </p>
         </td>
       </tr>
 </table>
-
+<hr>
 
 <details open="">
   <summary>
