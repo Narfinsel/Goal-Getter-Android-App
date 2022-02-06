@@ -29,6 +29,7 @@
             </p>
             <ul>
                   <li>Android app homescreen background. Warm, welcoming, promising.</li>
+                  <li>This app allows you to create goals associated with task, and to schedule those tasks in your week-days.</li>
                   <li>Application allows you to work offline, or to sign in via Facebook. </li>
                   <li>Working offline allows you to skip signing in to use the app. Completely free usage, nothing behind a paywall.</li>
                   <li>This application stores your goal-related data into a application context object in a JSON format.</li>
