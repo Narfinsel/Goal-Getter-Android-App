@@ -42,6 +42,42 @@
         </td>
       </tr>
 </table>
+
+
+<table cellspacing="20" border="0" width=30%>
+      <tr>
+        <td width="270" height="135">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen3_add_new_goal.jpg">
+              <img src="/app/screencasts/img/screen3_add_new_goal.jpg" alt="Goal Getter Add New Goal">
+            </a>
+          </p>
+        </td>
+        <td width="270" height="135">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen4_add_new_goal.jpg">
+              <img src="/app/screencasts/img/screen4_add_new_goal.jpg" alt="Goal Getter Add New Goal">
+            </a>
+          </p>
+        </td>
+        <td width="500" height="250">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen5_add_new_goal_color.jpg">
+              <img src="/app/screencasts/img/screen5_add_new_goal_color.jpg" alt="Goal Getter Add New Goal Color">
+            </a>
+          </p>
+        </td>
+        <td width="500" height="250">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen6_goals_menu.jpg">
+              <img src="/app/screencasts/img/screen6_goals_menu.jpg" alt="Goal Getter Goals Menu">
+            </a>
+          </p>
+        </td>
+      </tr>
+</table>
+
+
 <hr>
 
 <details open="">
