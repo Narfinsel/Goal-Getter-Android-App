@@ -90,48 +90,48 @@
 
 <h4>Sub-goals</h4>
 <p>Goals can be highly complicated, multi-step adventures! It can be useful to have the posibility to divide a complex goal structure into multiple sub-goals, each with a starting and finishing date. My Goal Getter app allows you to do exactly that!</p>
-<p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goals. For simple, straigh-foward goals you can associate tasks directly to your goal. Let's get a deeper look into my app functionality: </p>
+<p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goals. For simple & straightforward goals you can associate tasks directly to the goal. Let's have a deeper look into my app functionality: </p>
 <ul>
       <li>Edit your goal title, start & end dates, associated color, and even category.</li>
-      <li>Add a new sub-goal to your goal. Give it a title and put in starting and finish dates.</li>
+      <li>Add a new sub-goal to your goal. Give it a title and put in some start/end dates.</li>
       <li>Add new tasks to your sub-goal, or directly to your goal. </li>
-      <li>Tasks are simple endeavors, caracterized by name descriptor and repetition count.</li>
-      <li>Task repetition count gives you the number of times you can schedule your task in the schedule. Ex: A task like "Strength Training / 100" assumes that you commit yourself to training your strength & muscles for 100 hours, which means you can schedule this task 100 times in your schedules with a granularity of 1 hour.</li>
+      <li>Tasks are simple endeavors, characterized by name descriptor and repetition count.</li>
+      <li>Task repetition count gives you the number of times you can schedule your task in the weekly/daily scheduler. Ex: A task like "Strength Training / 100" assumes that you commit yourself to training your strength & muscles for 100 hours, which means you can schedule this task 100 times in your scheduler, with a granularity of 1 hour. Or 50 times, which a granularity of 2 hours.</li>
 </ul> 
 <table cellspacing="10" border="0">
       <tr>
         <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen7_edit_goal.jpg">
-              <img src="/app/screencasts/img/screen7_edit_goal.jpg" alt="Goal Getter Add New Goal">
+              <img src="/app/screencasts/img/screen7_edit_goal.jpg" alt="Goal Getter Edit Goal">
             </a>
           </p>
         </td>
         <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen8_add_new_subgoal.jpg">
-              <img src="/app/screencasts/img/screen8_add_new_subgoal.jpg" alt="Goal Getter Add New Goal">
+              <img src="/app/screencasts/img/screen8_add_new_subgoal.jpg" alt="Goal Getter Add New Sub-Goal">
             </a>
           </p>
         </td>
         <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen9_add_new_subgoal_dates.jpg">
-              <img src="/app/screencasts/img/screen9_add_new_subgoal_dates.jpg" alt="Goal Getter Add New Goal Color">
+              <img src="/app/screencasts/img/screen9_add_new_subgoal_dates.jpg" alt="Goal Getter Change Start and End Dates">
             </a>
           </p>
         </td>
         <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen10_add_task_to_subgoal.jpg">
-              <img src="/app/screencasts/img/screen10_add_task_to_subgoal.jpg" alt="Goal Getter Goals Menu">
+              <img src="/app/screencasts/img/screen10_add_task_to_subgoal.jpg" alt="Goal Getter Add Task to Sub-goal">
             </a>
           </p>
         </td>
         <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen11_add_task_to_subgoal.jpg">
-              <img src="/app/screencasts/img/screen11_add_task_to_subgoal.jpg" alt="Goal Getter Goals Menu">
+              <img src="/app/screencasts/img/screen11_add_task_to_subgoal.jpg" alt="Goal Getter Add Task to Sub-goal">
             </a>
           </p>
         </td>
