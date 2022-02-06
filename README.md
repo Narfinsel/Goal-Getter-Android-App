@@ -1,8 +1,8 @@
 # Goal-Getter-Android-App
 
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher_goal_getter_app.png" alt="Image SunraySeo Logo" width="125" style="max-width: 30%;">
-<p>Personal goal scheduler, with sub-goals, sub-task - valuable aid to make sure you stick to your goals.</p>
-
+<p>Personal goal scheduler, with sub-goals and task - valuable aid to make sure you stick to your goals. Create goals, associate them with sub-goals and tasks with specific repeatability /repetition count.</p>
+<p>Once created, tasks can be scheduled in the weekly scheduler section. This allows my Goal Getter app to send notifications and reminders to keep you on track with following up on the scheduled tasks.</p>
 
 <hr>
 <h2>Functionaly & Features</h2>
