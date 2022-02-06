@@ -1,7 +1,7 @@
 # Goal-Getter-Android-App
 
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher_goal_getter_app.png" alt="Image SunraySeo Logo" width="125" style="max-width: 30%;">
-<p>Personal goal scheduler, with sub-goals, sub-task - valuable help to make sure you stick to your goals.</p>
+<p>Personal goal scheduler, with sub-goals, sub-task - valuable aid to make sure you stick to your goals.</p>
 
 <hr>
 <h2>Description</h2>
@@ -25,18 +25,18 @@
         </td>
         <td width="500" height="250">
           <p align="top" dir="auto">
-            <p>
-            </p>
             <ul>
-                  <li>Android app homescreen background. Warm, welcoming, promising.</li>
-                  <li>This app allows you to create goals associated with task, and to schedule those tasks in your week-days.</li>
+                  <li>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal.</li>
+                  <li>This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</li>
                   <li>Application allows you to work offline, or to sign in via Facebook. </li>
-                  <li>Working offline allows you to skip signing in to use the app. Completely free usage, nothing behind a paywall.</li>
-                  <li>This application stores your goal-related data into a application context object in a JSON format.</li>
-                  <li>Signing in with Facebook saves and stores your application context object in the Google Firebase servers.</li>
-                  <li>The advandtage of signing in and storing goal-data in the Google Firebase associates this data with your Facebook account.</li>
-                  <li>This means you can sign in the Goal Getter app from another device, and that goal-data will be downloaded to a new device.</li>
+                  <li>Working offline allows you to skip sign-in, to use the app. Completely free to use, no paywall, no need to pay for extra functionality.</li>
+                  <li>This application stores your goal-related data into an application context object in the JSON format.</li>
+                  <li>Signing in via Facebook saves and stores your application context object (goal-related information) in the Google Firebase database servers.</li>
+                  <li>Using Facebook allows storing goal-data in the Google Firebase and it associates this data with your Facebook account.</li>
+                  <li>This means you can sign in to the Goal Getter app from another device, and goal-data will be automatically downloaded to the new device.</li>
                   <li>Sign-in and password encryption at the server side.</li>
+                  <li>On first Facebook sign-in, an empty Goal Datalist object is created in a flat JSON format, in the Firebase database.</li>
+                  <li>On consecutive sign-ins, there is a preliminary check to see wheter your local data object is up-to-date, or wheter the latest version should be downloaded from the database.</li>
             </ul>  
           </p>
         </td>
