@@ -46,7 +46,7 @@
 
 <table cellspacing="10" border="0">
       <tr>
-        <td width="300" height="150" padding="5px">
+        <td width="300" height="150" padding-left="5px">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen3_add_new_goal.jpg">
               <img src="/app/screencasts/img/screen3_add_new_goal.jpg" alt="Goal Getter Add New Goal">
