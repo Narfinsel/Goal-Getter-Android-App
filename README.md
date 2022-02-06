@@ -27,6 +27,13 @@
           <p align="center" dir="auto">
             <p>
             </p>
+            <ul>
+                  <li>All blogs data, article guest posts, and link-building campaigns are saved to an excell file. </li>
+                  <li>Application imports, exports, use, modify, and works with excell files. </li>
+                  <li>Data completely indepent from the desktop SunraySeo application. </li>
+                  <li>Easy to edit outside of your application, just tap into the excell and change text. But be carefull - do NOT change title and url names and link from outside of application. Only descriptive data.</li>
+                  <li>This application only works with excell files. Opening, saving, editing.</li>
+            </ul>  
           </p>
         </td>
       </tr>
