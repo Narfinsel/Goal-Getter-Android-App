@@ -89,7 +89,8 @@
 
 
 <h4>Sub-goals</h4>
-<p>Create, add, modify goals. The list of goals is saved in the application context objects which lives inside the app sand-box. It is there when you run or exit the application.</p>
+<p>Goals can be highly complicated multi-step adventures! It can be usefull to have the posibility to divide a complex goal structure into multiple sub-goals, each with a starting and finishing date. My Goal Getter app allows you to do exactly that!</p>
+<p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goal. For simple, straigh-foward goals you can associate tasks directly to your goal.</p>
 <p>Goals have a multititude of attributes to distinguish them:</p>
 <ul>
       <li>Goal title / name.</li>
