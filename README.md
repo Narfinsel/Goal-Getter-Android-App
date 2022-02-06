@@ -9,14 +9,14 @@
 <p></p>
 <table cellspacing="20" border="0" width=30%>
       <tr>
-        <td width="400" height="200">
+        <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen1_homepage.jpg">
               <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage">
             </a>
           </p>
         </td>
-        <td width="400" height="200">
+        <td width="300" height="150">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
               <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu">
