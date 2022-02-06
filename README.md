@@ -7,19 +7,19 @@
 <h2>Description</h2>
 <h3>Application & Target Audience</h3>
 <p></p>
-<table cellspacing="20" border=0 width=100px>
+<table cellspacing="20" border="0" width="250">
       <tr>
         <td>
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen1_homepage.jpg">
-              <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage" width="738" style="max-width: 100%;">
+              <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage" width="738">
             </a>
           </p>
         </td>
         <td>
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
-              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu" width="738" style="max-width: 100%;">
+              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu" width="738">
             </a>
           </p>
         </td>
