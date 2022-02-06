@@ -3,7 +3,7 @@
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher_goal_getter_app.png" alt="Image SunraySeo Logo" width="125" style="max-width: 30%;">
 <p>Personal goal scheduler, with sub-goals and task - valuable aid to make sure you stick to your goals. Create goals, associate them with sub-goals and tasks with specific repeatability /repetition count.</p>
 <p>Once created, tasks can be scheduled in the weekly scheduler section. This allows my Goal Getter app to send notifications and reminders to keep you on track with following up on the scheduled tasks.</p>
-<hr>
+
 
 <h2>Content</h2>
 <details open="">
@@ -24,7 +24,7 @@
 </details>
 
 
-<hr>
+
 <h2>Functionaly & Features</h2>
 <h3>Data Encryption, Storage & Context</h3>
 <p>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal. This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</p>
@@ -235,9 +235,8 @@
         </td>
       </tr>
 </table>
-<hr>
 
 
 <h2>License</h2>
 NOTE: Goal Getter Android App is licensed under the <a href="https://choosealicense.com/licenses/agpl-3.0/">GNU AGPLv3</a> license. Free to use, please check associated link for more information on permissions, rights and use.
-<hr>
+
