@@ -224,7 +224,25 @@
 <hr>
 
 <details open="">
-  <summary> show / hide </summary>
+  <summary>Content</summary>
+  <ul class="contains-task-list">
+    <li class="task-list-item">
+      <summary>Functionaly & Features</summary>
+      <ul class="contains-task-list">
+            <li class="task-list-item">Data Encryption, Storage & Context</li>
+            <li class="task-list-item">Goals Setting</li>
+            <li class="task-list-item">Sub-goals Partitioning</li>
+            <li class="task-list-item">Weekly Task Scheduler</li>
+      </ul>  
+    </li>
+    <li class="task-list-item">License</li>
+    <li class="task-list-item">Sub-goals Partitioning</li>
+    <li class="task-list-item">Weekly Task Scheduler</li>
+  </ul>
+</details>
+
+<details open="">
+  <summary>Functionaly & Features</summary>
   <ul class="contains-task-list">
     <li class="task-list-item">Data Encryption, Storage & Context</li>
     <li class="task-list-item">Goals Setting</li>
@@ -232,5 +250,6 @@
     <li class="task-list-item">Weekly Task Scheduler</li>
   </ul>
 </details>
+
 
 <hr>
