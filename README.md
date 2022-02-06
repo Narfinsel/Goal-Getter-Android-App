@@ -8,6 +8,7 @@
 <h2>Content</h2>
 <details open="">
   <summary>Table of Content</summary>
+  <li class="task-list-item">Content</li>
   <ul class="contains-task-list">
     <li class="task-list-item">
       <summary>Functionaly & Features</summary>
@@ -19,8 +20,6 @@
       </ul>  
     </li>
     <li class="task-list-item">License</li>
-    <li class="task-list-item">Sub-goals Partitioning</li>
-    <li class="task-list-item">Weekly Task Scheduler</li>
   </ul>
 </details>
 
