@@ -176,9 +176,11 @@
 <p>The navigation adapter refreshes date settings every Monday morning, according to current calendaristic week.</p>
 <ul>
       <li>Swipe your scheduler left-right to navigate through your weekdays, from Monday to Sunday.</li>
-      <li>.</li>
-      <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization in the scheduling graph. </li>
-      <li>Area or domain of interest. This isn't important, but it does randomly select your goal's background image, as it appears in the goal list.</li>
+      <li>Click on any valid line representing work-hours or freetime, to schedule a task. Note that you cannot click on past working-hour, because they are invalidated for scheduling.</li>
+      <li>Clicking on a valid timeframe will pop up a dialog box which lists all the possible tasks gathered from all the goals in your goal list, which are active.</li>
+      <li>Active goals have the current calendaristic date set between the start and end date.</li>
+      <li>Select a task from the new dialog box to set it in the weekly schedule. This automaticaly reduces task repetition count.</li>
+      <li>If repetition count reached 0, then the task is completed and will no longer be associated to the goal or sub-goal. It will no longer appear in the dialog box and list.</li>
 </ul> 
 <table cellspacing="10" border="0">
       <tr>
