@@ -9,17 +9,17 @@
 <p></p>
 <table cellspacing="20" border="0" width=30%>
       <tr>
-        <td width="200" height="100">
+        <td width="400" height="200">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen1_homepage.jpg">
-              <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage" width="738">
+              <img src="/app/screencasts/img/screen1_homepage.jpg" alt="Goal Getter Homepage">
             </a>
           </p>
         </td>
-        <td width="200" height="100">
+        <td width="400" height="200">
           <p align="center" dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
-              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu" width="738">
+              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu">
             </a>
           </p>
         </td>
