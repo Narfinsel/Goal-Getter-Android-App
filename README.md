@@ -89,14 +89,13 @@
 
 
 <h4>Sub-goals</h4>
-<p>Goals can be highly complicated multi-step adventures! It can be usefull to have the posibility to divide a complex goal structure into multiple sub-goals, each with a starting and finishing date. My Goal Getter app allows you to do exactly that!</p>
-<p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goal. For simple, straigh-foward goals you can associate tasks directly to your goal.</p>
-<p>Goals have a multititude of attributes to distinguish them:</p>
+<p>Goals can be highly complicated, multi-step adventures! It can be useful to have the posibility to divide a complex goal structure into multiple sub-goals, each with a starting and finishing date. My Goal Getter app allows you to do exactly that!</p>
+<p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goals. For simple, straigh-foward goals you can associate tasks directly to your goal. Let's get a deeper look into my app functionality: </p>
 <ul>
-      <li>Edit goal title, start & end dates, associated color, and even category.</li>
-      <li>Add new sub-goal to your goal. Give it a title and put in starting and finish dates.</li>
-      <li>Add new tasts to your sub-goal, or directly to your goal. </li>
-      <li>Task are simple endeavor, caracterized by name descriptor and repetition count.</li>
+      <li>Edit your goal title, start & end dates, associated color, and even category.</li>
+      <li>Add a new sub-goal to your goal. Give it a title and put in starting and finish dates.</li>
+      <li>Add new tasks to your sub-goal, or directly to your goal. </li>
+      <li>Tasks are simple endeavors, caracterized by name descriptor and repetition count.</li>
       <li>Task repetition count gives you the number of times you can schedule your task in the schedule. Ex: A task like "Strength Training / 100" assumes that you commit yourself to training your strength & muscles for 100 hours, which means you can schedule this task 100 times in your schedules with a granularity of 1 hour.</li>
 </ul> 
 <table cellspacing="10" border="0">
