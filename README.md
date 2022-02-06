@@ -24,7 +24,7 @@
           </p>
         </td>
         <td width="500" height="250">
-          <p align="center" dir="auto">
+          <p dir="auto">
             <p>
             </p>
             <ul>
