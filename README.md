@@ -3,9 +3,10 @@
 <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher_goal_getter_app.png" alt="Image SunraySeo Logo" width="125" style="max-width: 30%;">
 <p>Personal goal scheduler, with sub-goals, sub-task - valuable aid to make sure you stick to your goals.</p>
 
+
 <hr>
-<h2>Description</h2>
-<h3>Application & Target Audience</h3>
+<h2>Functionaly & Features</h2>
+<h3>Data Encryption, Storage & Context</h3>
 <p>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal. This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</p>
 <p>Application allows you to work offline, or to sign in via Facebook. Working offline allows you to skip sign-in, to use the app. Completely free to use, no paywall, no need to pay for extra functionality. </p>
 <table cellspacing="20" border="0" width=30%>
@@ -40,7 +41,9 @@
       </tr>
 </table>
 
-<h4>Goals</h4>
+
+
+<h3>Goals Setting</h3>
 <p>Create, add, modify goals. The list of goals is saved as an application context object which lives inside the app sandbox. It is there when you open, run and exit the application. This means your goal-related data is automatically saved and retrieved when you close / re-open your app. </p>
 <p>Goals have a multitude of attributes to distinguish them:</p>
 <ul>
@@ -84,8 +87,7 @@
 
 
 
-
-<h4>Sub-goals</h4>
+<h3>Sub-goals Partitioning</h3>
 <p>Goals can be highly complicated, multi-step adventures! It can be useful to have the posibility to divide a complex goal structure into multiple sub-goals, each with a starting and finishing date. My Goal Getter app allows you to do exactly that!</p>
 <p>Divide your goal into multiple sub-goals, based on commonality of tasks. Then, you can add tasks to your sub-goals. For simple & straightforward goals you can associate tasks directly to the goal. Let's have a deeper look into my app functionality: </p>
 <ul>
@@ -134,6 +136,11 @@
         </td>
       </tr>
 </table>
+
+
+
+
+
 
 
 
