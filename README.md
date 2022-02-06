@@ -28,11 +28,14 @@
             <p>
             </p>
             <ul>
-                  <li>All blogs data, article guest posts, and link-building campaigns are saved to an excell file. </li>
-                  <li>Application imports, exports, use, modify, and works with excell files. </li>
-                  <li>Data completely indepent from the desktop SunraySeo application. </li>
-                  <li>Easy to edit outside of your application, just tap into the excell and change text. But be carefull - do NOT change title and url names and link from outside of application. Only descriptive data.</li>
-                  <li>This application only works with excell files. Opening, saving, editing.</li>
+                  <li>Android app homescreen background. Warm, welcoming, promising.</li>
+                  <li>Application allows you to work offline, or to sign in via Facebook. </li>
+                  <li>Working offline allows you to skip signing in to use the app. Completely free usage, nothing behind a paywall.</li>
+                  <li>This application stores your goal-related data into a application context object in a JSON format.</li>
+                  <li>Signing in with Facebook saves and stores your application context object in the Google Firebase servers.</li>
+                  <li>The advandtage of signing in and storing goal-data in the Google Firebase associates this data with your Facebook account.</li>
+                  <li>This means you can sign in the Goal Getter app from another device, and that goal-data will be downloaded to a new device.</li>
+                  <li>Sign-in and password encryption at the server side.</li>
             </ul>  
           </p>
         </td>
