@@ -7,6 +7,9 @@
 <h2>Description</h2>
 <h3>Application & Target Audience</h3>
 <p></p>
+<p>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal.</p>
+<p>This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</p>
+<p>Application allows you to work offline, or to sign in via Facebook. Working offline allows you to skip sign-in, to use the app. Completely free to use, no paywall, no need to pay for extra functionality. </p>
 <table cellspacing="20" border="0" width=30%>
       <tr>
         <td width="270" height="135">
@@ -24,12 +27,8 @@
           </p>
         </td>
         <td width="500" height="250">
-          <p align="top" dir="auto">
+          <p align="top" dir="auto">                
             <ul>
-                  <li>Android app homescreen background. Warm, welcoming, promising - relevant to the pursuit of a highly-valued goal.</li>
-                  <li>This app allows you to create goals, to associate them with tasks, and to schedule the tasks in the following days & weeks.</li>
-                  <li>Application allows you to work offline, or to sign in via Facebook. </li>
-                  <li>Working offline allows you to skip sign-in, to use the app. Completely free to use, no paywall, no need to pay for extra functionality.</li>
                   <li>This application stores your goal-related data into an application context object in the JSON format.</li>
                   <li>Signing in via Facebook saves and stores your application context object (goal-related information) in the Google Firebase database servers.</li>
                   <li>Using Facebook allows storing goal-data in the Google Firebase and it associates this data with your Facebook account.</li>
