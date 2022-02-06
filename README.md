@@ -171,6 +171,47 @@
 
 
 
+<h3>Weekly Task Scheduler</h3>
+<p>Create, add, modify goals. The list of goals is saved as an application context object which lives inside the app sandbox. It is there when you open, run and exit the application. This means your goal-related data is automatically saved and retrieved when you close / re-open your app. </p>
+<p>Goals have a multitude of attributes to distinguish them:</p>
+<ul>
+      <li>Goal title or name.</li>
+      <li>Start date and end date. You can only schedule tasks for an associated goal during this time-window, but not outside of it. If the calendaristic date is outside start-end dates, then you cannot schedule your goal's tasks, unless you changes those dates.</li>
+      <li>Color - this is important for visual scheduling, because all tasks for this goal will appear in its associated color, to ease organisation & visualization in the scheduling graph. </li>
+      <li>Area or domain of interest. This isn't important, but it does randomly select your goal's background image, as it appears in the goal list.</li>
+</ul> 
+<table cellspacing="10" border="0">
+      <tr>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen16_schedule.jpg">
+              <img src="/app/screencasts/img/screen16_schedule.jpg" alt="Goal Getter Weekly Scheduler Free Empty Day">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen17_schedule_filled.jpg">
+              <img src="/app/screencasts/img/screen17_schedule_filled.jpg" alt="Goal Getter Weekly Scheduler Filled">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen18_schedule_filled2.jpg">
+              <img src="/app/screencasts/img/screen18_schedule_filled2.jpg" alt="Goal Getter Weekly Scheduler Filled">
+            </a>
+          </p>
+        </td>
+        <td width="300" height="150">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen19_schedule_populate.jpg">
+              <img src="/app/screencasts/img/screen19_schedule_populate.jpg" alt="Goal Getter Weekly Schedule Populate">
+            </a>
+          </p>
+        </td>
+      </tr>
+</table>
 
 
 
