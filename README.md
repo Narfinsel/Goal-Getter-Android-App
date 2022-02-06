@@ -23,6 +23,13 @@
             </a>
           </p>
         </td>
+        <td width="600" height="300">
+          <p align="center" dir="auto">
+            <a target="_blank" rel="noopener noreferrer" href="/app/screencasts/img/screen2_main_menu.jpg">
+              <img src="/app/screencasts/img/screen2_main_menu.jpg" alt="Goal Getter Main Menu">
+            </a>
+          </p>
+        </td>
       </tr>
 </table>
 
